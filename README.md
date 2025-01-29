@@ -5,7 +5,7 @@ main.py will constantly monitor rss feeds from your selected news websites. You 
 enter the link to the rss feeds you want within the update_sql() function. The program 
 will display new articles as they appear within a simple GUI.
 
-This is meerly version 1 and I plan to update function of both the GUI and retrieval mechanisms.
+This is meerly version 1 and I plan to update functionality of both the GUI and retrieval mechanisms.
 
 TODO (For now):
 1. Modernize GUI.
